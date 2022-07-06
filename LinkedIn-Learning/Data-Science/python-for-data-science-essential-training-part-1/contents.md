@@ -4,7 +4,8 @@
 - The four flavours of data analysis
 - Why use Python for analytics?
 - High-level course road map
-<br>
+<br/>
+<br/>
 
 #### **2. Data Preparation Basics**
 - Filtering and selecting
@@ -12,13 +13,15 @@
 - Removing duplicates
 - Concatenating and transofrming
 - Grouping and aggregation
-<br>
+<br/>
+<br/>
 
 #### **3. Data Visualisation 101**
 - The three types of data visualisation
 - Selecting optimal data graphics
 - Communicating with colour and context
-<br>
+<br/>
+<br/>
 
 #### **4. Practical Data Visualisation**
 - Creating standard data graphics
@@ -27,7 +30,8 @@
 - Creating labels and annotations
 - Visualising time series
 - Creating statistical data graphics
-<br>
+<br/>
+<br/>
 
 #### **5. Basic Math and Statistics**
 - Simple arithmetic
@@ -39,7 +43,8 @@
 - Transforming dataset distributions
 - Extreme value analysis for outliers
 - Multivariate anaylsis for outliers
-<br>
+<br/>
+<br/>
 
 #### **6. Data Sourcing via Web Scraping**
 - BeautifulSoup object
@@ -49,7 +54,8 @@
 - Introduction to NLP
 - Cleaning and stemming textual data
 - Lemmatizing and analysing textual data
-<br>
+<br/>
+<br/>
 
 #### **7. Collaborative Analytics with Plotly**
 - Introduction to Plotly
