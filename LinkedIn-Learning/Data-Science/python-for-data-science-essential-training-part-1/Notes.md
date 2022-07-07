@@ -75,3 +75,27 @@ flowchart TB;
     
     1 --> 2 --> 3    
 ```
+<br/>
+<br/>
+<br/>
+
+### **1. Data Preparation Basics**
+**Filtering and selecting**<br/>
+Pandas: a data analytics library.<br/>
+*Why pandas?* - fast data cleaning, preparation, and analysis; easy to use for data visualisation and machine learning.<br/>
+*What is pandas?* - built on top of NumPy, makes it easy to work with arrays and matrices.<br/> *Indexing in pandas:* An index is a list of integers or labels you use to uniquely identify rows or columns. This course will use a set of square brackets `[...]`, or the `.loc[]` indexer.<br/>
+*DataFrame Object:* acts like a spreadsheet in Excel, made of a set of Series objects, and are indexable.<br/>
+*Series Object:* a single row or column. Always indexed.<br/>
+Refer to the Jupyter notebook for code examples.
+<br/>
+<br/>
+
+**Treating missing values**<br/>
+By default, missing values are represented with NaN: 'Not a Number'<br/>
+Warning: if your dataset has `0s`, `99s`, or `999s`, be sure to either drop or approximate them as you would with missing values.<br/>
+Refer to the Jupyter notebook for code examples.
+<br/>
+<br/>
+
+**Removing duplicates**
+We remove duplicates to maintain accurate, consistent datasets and to avoid producing erroneous or misleading statistics.
