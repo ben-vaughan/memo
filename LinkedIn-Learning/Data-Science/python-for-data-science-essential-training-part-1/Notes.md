@@ -97,5 +97,16 @@ Refer to the Jupyter notebook for code examples.
 <br/>
 <br/>
 
-**Removing duplicates**
+**Removing duplicates**<br/>
 We remove duplicates to maintain accurate, consistent datasets and to avoid producing erroneous or misleading statistics.
+<br/>
+<br/>
+
+**Concatenating and transforming**<br/>
+Concatenating - combining. Transforming - changing to suit our purposes.
+<br/>
+<br/>
+
+**Subgrouping and aggregation**<br/>
+Useful for categorizing data.<br/>
+Can group data to compare subsets, deduce reasons why subgroups differ, and can subset your data for analysis.
