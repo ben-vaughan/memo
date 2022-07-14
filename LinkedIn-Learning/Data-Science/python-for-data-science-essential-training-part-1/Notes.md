@@ -110,3 +110,44 @@ Concatenating - combining. Transforming - changing to suit our purposes.
 **Subgrouping and aggregation**<br/>
 Useful for categorizing data.<br/>
 Can group data to compare subsets, deduce reasons why subgroups differ, and can subset your data for analysis.
+<br/>
+<br/>
+<br/>
+
+### **2. Data Visualization 101**
+**The three types of data visualization**<br/>
+- *Data storytelling* (for presentations to organizational decision makers). <br/> Make it easy for the audience to get the point. Must be clutter-free and highly organised. Audience are nonanalysts and nontechnical business managers. Types include static images and simple dashboards.s 
+- *Data showcasing* (for presentations to analysts, scientists, mathematicians, engineers). <br/> Showcase a lot of data so that your audience members can think for themselves. Opposite to data storytelling. Must be highly contextual, include background information, open ended. Analysts, quants, engineers, mathematicians, scientists. Static images and interactive dashboards.
+- *Data art* (for presentations to activists or to the general public). <br/> Use data art to make a statement. Should be attention-getting, creative, controversial. Idealists, artists, social activists. Static images.
+<br/>
+<br/>
+
+**Selecting optimal data graphics**<br/>
+- Raster Maps: a raster file filled with values according to count. Like a heatmap on top of a map. Uses one count.
+- Cloropleths: a map that shows area boundaries.
+- Point Maps: a map that has points on it.
+<br/>
+- *Data Storytelling*: area, bar, line, pie, cloropleth, point maps.
+- *Data Showcasing*: area, bar, line, pie, cloropleths, point maps, histograms, scatter plots, scatter plot matrices, raster maps.
+- *Data Art*: line, graph networks, cloropleths, etc...
+<br/>
+*Four steps to choosing data graphics*:
+1. Make a list of the questions that your data visualisation is meant to answer.
+2. Is your data visualisation type story telling, data showcasing, or data art?
+3. What data graphic types are preferable for that type of data visualisation?
+4. Test out different types of data graphics with your data. Which graphic type displays the most clear and obvious answer to your questions?
+<br/>
+<br/>
+
+**Communicating with color and context**<br/>
+Colour should be used:
+- Strategically
+- Sparingly
+- Consistently
+
+You want to use colour to draw attention to the parts of the visualization that matter, and away from the parts that don't. Ensure that all colours are all from the same colour formula (consistency). <br/>
+Use annotations as context; provide information in why data is as it is. Can also bring in graphic elements as context - for example, trendlines etc.
+<br/>
+<br/>
+<br/>
+
