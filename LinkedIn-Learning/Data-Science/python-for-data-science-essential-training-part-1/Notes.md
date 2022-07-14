@@ -151,3 +151,34 @@ Use annotations as context; provide information in why data is as it is. Can als
 <br/>
 <br/>
 
+### **3. Practical Data Visualisation**<br/>
+**Creating standard data graphics**<br/>
+
+<br/>
+<br/>
+
+**Defining elements of a plot**<br/>
+
+<br/>
+<br/>
+
+**Plot formatting**<br/>
+
+<br/>
+<br/>
+
+**Creating labels and annotations**<br/>
+
+<br/>
+<br/>
+
+**Visualising time series**<br/>
+
+<br/>
+<br/>
+
+**Creating statistical data graphics**<br/>
+
+<br/>
+<br/>
+<br/>
